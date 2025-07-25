@@ -1,0 +1,10 @@
+[
+	{
+		"save": "comboAnims",
+		"name": "Combo Animations:",
+		"type": "string",
+		"description": "Select how GF characters should react to the combo, or turn it off.",
+		"value": "Psych",
+		"options": ["Psych", "Vanilla", "Disabled"]
+	}
+]
