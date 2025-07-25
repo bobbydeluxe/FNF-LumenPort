@@ -3,93 +3,93 @@
 		[
 			4200,
 			[
-				["PlayAnimation", "true", "hey"]
+				["Hey!", "BF", ""]
 			]
 		],
 		[
 			9000,
 			[
-				["PlayAnimation", "true", "hey"]
+				["Hey!", "BF", ""]
 			]
 		],
 		[
 			13800,
 			[
-				["PlayAnimation", "true", "hey"]
+				["Hey!", "BF", ""]
 			]
 		],
 		[
 			18600,
 			[
-				["PlayAnimation", "true", "hey"]
+				["Hey!", "BF", ""]
 			]
 		],
 		[
 			23400,
 			[
-				["PlayAnimation", "true", "hey"]
+				["Hey!", "BF", ""]
 			]
 		],
 		[
 			28200,
 			[
-				["PlayAnimation", "true", "hey"]
+				["Hey!", "BF", ""]
 			]
 		],
 		[
 			33000,
 			[
-				["PlayAnimation", "true", "hey"]
+				["Hey!", "BF", ""]
 			]
 		],
 		[
 			37800,
 			[
-				["PlayAnimation", "true", "hey"]
+				["Hey!", "BF", ""]
 			]
 		],
 		[
 			42600,
 			[
-				["PlayAnimation", "true", "hey"]
+				["Hey!", "BF", ""]
 			]
 		],
 		[
 			52200,
 			[
-				["PlayAnimation", "true", "hey"]
+				["Hey!", "BF", ""]
 			]
 		],
 		[
 			57000,
 			[
-				["PlayAnimation", "true", "hey"]
+				["Hey!", "BF", ""]
 			]
 		],
 		[
 			61800,
 			[
-				["PlayAnimation", "true", "hey"]
+				["Hey!", "BF", ""]
 			]
 		],
 		[
 			66600,
 			[
-				["PlayAnimation", "true", "hey"]
+				["Hey!", "BF", ""]
 			]
 		],
 		[
 			71400,
 			[
-				["PlayAnimation", "true", "hey"]
+				["Hey!", "BF", ""]
 			]
 		],
 		[
 			76200,
 			[
-				["PlayAnimation", "true", "hey"]
+				["Hey!", "BF", ""]
 			]
 		]
 	],
-	"format": "psych_v1_convert"
+	"format": "psych_v1"
 }

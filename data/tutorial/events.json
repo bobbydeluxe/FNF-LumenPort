@@ -3,93 +3,81 @@
 		[
 			9600,
 			[
-				["ZoomCamera", "elasticInOut", "4"]
+				["Set Camera Zoom", "1.3,stage", "4,elasticInOut"]
 			]
 		],
 		[
 			14400,
 			[
-				["ZoomCamera", "elasticInOut", "4"]
+				["Set Camera Zoom", "1,stage", "4,elasticInOut"]
 			]
 		],
 		[
-			18525,
+			18600,
 			[
-				["PlayAnimation", "true", "hey"]
-			]
-		],
-		[
-			18525,
-			[
-				["PlayAnimation", "false", "cheer"]
+				["Hey!", "Both", ""]
 			]
 		],
 		[
 			19200,
 			[
-				["ZoomCamera", "elasticInOut", "4"]
+				["Set Camera Zoom", "1.3,stage", "4,elasticInOut"]
 			]
 		],
 		[
 			24000,
 			[
-				["ZoomCamera", "elasticInOut", "4"]
+				["Set Camera Zoom", "1,stage", "4,elasticInOut"]
 			]
 		],
 		[
-			28125,
+			28200,
 			[
-				["PlayAnimation", "true", "hey"]
-			]
-		],
-		[
-			28125,
-			[
-				["PlayAnimation", "false", "cheer"]
+				["Hey!", "Both", ""]
 			]
 		],
 		[
 			28800,
 			[
-				["ZoomCamera", "elasticInOut", "4"]
+				["Set Camera Zoom", "1.3,stage", "4,elasticInOut"]
 			]
 		],
 		[
 			33600,
 			[
-				["ZoomCamera", "elasticInOut", "4"]
+				["Set Camera Zoom", "1,stage", "4,elasticInOut"]
 			]
 		],
 		[
 			38400,
 			[
-				["ZoomCamera", "elasticInOut", "4"]
+				["Set Camera Zoom", "1.3,stage", "4,elasticInOut"]
 			]
 		],
 		[
 			43200,
 			[
-				["ZoomCamera", "elasticInOut", "4"]
+				["Set Camera Zoom", "1,stage", "4,elasticInOut"]
 			]
 		],
 		[
 			48000,
 			[
-				["ZoomCamera", "elasticInOut", "4"]
+				["Set Camera Zoom", "1.3,stage", "4,elasticInOut"]
 			]
 		],
 		[
 			50400,
 			[
-				["ZoomCamera", "elasticInOut", "4"]
+				["Set Camera Zoom", "1,stage", "4,elasticInOut"]
 			]
 		],
 		[
 			60000,
 			[
-				["ScrollSpeed", "4", "both"]
+				["Set Scroll Speed", "1.2", "4,expoIn"]
 			]
 		]
 	],
-	"format": "psych_v1_convert"
+	"format": "psych_v1"
 }

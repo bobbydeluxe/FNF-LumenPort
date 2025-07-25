@@ -1,11 +1,62 @@
 {
 	"events": [
 		[
-			10083.3333333333,
+			21666.6666666667,
 			[
-				["ZoomCamera", "12", "quintInOut"]
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			27000,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			32166.6666666667,
+			[
+				["Set Camera Target", "Dad", ""],
+				["Dadbattle Spotlight", "1", ""],
+				["Dadbattle Spotlight", "2", ""]
+			]
+		],
+		[
+			42833.3333333333,
+			[
+				["Set Camera Target", "BF", ""],
+				["Dadbattle Spotlight", "3", ""]
+			]
+		],
+		[
+			53250,
+			[
+				["Set Camera Target", "", ""]
+			]
+		],
+		[
+			53333.3333333334,
+			[
+				["Dadbattle Spotlight", "0", ""]
+			]
+		],
+		[
+			64333.3333333334,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			69666.6666666667,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			74583.3333333334,
+			[
+				["Set Camera Target", "", ""]
 			]
 		]
 	],
-	"format": "psych_v1_convert"
+	"format": "psych_v1"
 }

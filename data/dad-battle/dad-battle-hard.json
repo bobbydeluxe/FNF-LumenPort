@@ -701,7 +701,7 @@
 				[83666, 2, 0]
 			],
 			"sectionBeats": 4,
-			"mustHitSection": false
+			"mustHitSection": true
 		},
 		{
 			"sectionNotes": [
@@ -710,7 +710,7 @@
 				[84666, 1, 0]
 			],
 			"sectionBeats": 4,
-			"mustHitSection": false
+			"mustHitSection": true
 		}
 	],
 	"gfVersion": "gf",

@@ -300,7 +300,7 @@
 				[75600, 1, 600]
 			],
 			"sectionBeats": 4,
-			"mustHitSection": false
+			"mustHitSection": true
 		}
 	],
 	"gfVersion": "gf",
