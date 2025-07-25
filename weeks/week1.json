@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Bopeebo",
+			"dad",
+			[146, 113, 253]
+		],
+		[
+			"Fresh",
+			"dad",
+			[146, 113, 253]
+		],
+		[
+			"Dad Battle",
+			"dad",
+			[146, 113, 253]
+		]
+	],
+	"colors": ["F9CF51", "B79839"],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "week1",
+	"difficulties": "Easy,Normal,Hard",
+	"weekCharacters": ["dad", "bf", "gf"],
+	"storyName": "Daddy Dearest",
+	"weekName": "Week 1",
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}

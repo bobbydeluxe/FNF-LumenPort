@@ -1,0 +1,20 @@
+{
+	"songs": [
+		[
+			"Tutorial",
+			"gf",
+			[165, 0, 77]
+		]
+	],
+	"colors": ["F9CF51", "B79839"],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "week1",
+	"difficulties": "Easy,Normal,Hard",
+	"weekCharacters": ["", "bf", "gf"],
+	"storyName": "Teaching Time",
+	"weekName": "Tutorial",
+	"hideStoryMode": false,
+	"weekBefore": "",
+	"startUnlocked": true
+}

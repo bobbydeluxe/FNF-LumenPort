@@ -1,0 +1,11 @@
+{
+	"events": [
+		[
+			10083.3333333333,
+			[
+				["ZoomCamera", "12", "quintInOut"]
+			]
+		]
+	],
+	"format": "psych_v1_convert"
+}
