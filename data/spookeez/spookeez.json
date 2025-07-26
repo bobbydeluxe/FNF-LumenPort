@@ -667,7 +667,7 @@
 				[91000, 3, 0]
 			],
 			"sectionBeats": 4,
-			"mustHitSection": false
+			"mustHitSection": true
 		},
 		{
 			"sectionNotes": [
@@ -679,7 +679,7 @@
 				[92400, 1, 0]
 			],
 			"sectionBeats": 4,
-			"mustHitSection": false
+			"mustHitSection": true
 		},
 		{
 			"sectionNotes": [
@@ -692,7 +692,7 @@
 				[94200, 3, 0]
 			],
 			"sectionBeats": 4,
-			"mustHitSection": false
+			"mustHitSection": true
 		},
 		{
 			"sectionNotes": [
@@ -704,7 +704,7 @@
 				[95600, 1, 0]
 			],
 			"sectionBeats": 4,
-			"mustHitSection": false
+			"mustHitSection": true
 		}
 	],
 	"gfVersion": "gf",

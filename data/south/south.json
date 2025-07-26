@@ -610,7 +610,7 @@
 				[76909.0909090909, 0, 0]
 			],
 			"sectionBeats": 4,
-			"mustHitSection": false
+			"mustHitSection": true
 		},
 		{
 			"sectionNotes": [
@@ -623,7 +623,7 @@
 				[78545.3636363636, 0, 0]
 			],
 			"sectionBeats": 4,
-			"mustHitSection": false
+			"mustHitSection": true
 		},
 		{
 			"sectionNotes": [
@@ -635,7 +635,7 @@
 				[79818.1818181818, 0, 0]
 			],
 			"sectionBeats": 4,
-			"mustHitSection": false
+			"mustHitSection": true
 		},
 		{
 			"sectionNotes": [
@@ -647,7 +647,7 @@
 				[81273.3636363636, 1, 0]
 			],
 			"sectionBeats": 4,
-			"mustHitSection": false
+			"mustHitSection": true
 		}
 	],
 	"gfVersion": "gf",

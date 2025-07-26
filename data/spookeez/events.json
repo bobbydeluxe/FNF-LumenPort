@@ -3,27 +3,27 @@
 		[
 			15600,
 			[
-				["PlayAnimation", "dad", "cheer"]
+				["Play Animation", "cheer", "Dad"]
 			]
 		],
 		[
 			18800,
 			[
-				["PlayAnimation", "boyfriend", "cheer"]
+				["Play Animation", "cheer", "BF"]
 			]
 		],
 		[
 			41200,
 			[
-				["PlayAnimation", "true", "cheer"]
+				["Play Animation", "cheer", "Dad"]
 			]
 		],
 		[
 			44400,
 			[
-				["PlayAnimation", "true", "cheer"]
+				["Play Animation", "cheer", "BF"]
 			]
 		]
 	],
-	"format": "psych_v1_convert"
+	"format": "psych_v1"
 }
