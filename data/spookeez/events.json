@@ -1,0 +1,29 @@
+{
+	"events": [
+		[
+			15600,
+			[
+				["PlayAnimation", "dad", "cheer"]
+			]
+		],
+		[
+			18800,
+			[
+				["PlayAnimation", "boyfriend", "cheer"]
+			]
+		],
+		[
+			41200,
+			[
+				["PlayAnimation", "true", "cheer"]
+			]
+		],
+		[
+			44400,
+			[
+				["PlayAnimation", "true", "cheer"]
+			]
+		]
+	],
+	"format": "psych_v1_convert"
+}
