@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Pico",
+			"pico",
+			[148, 22, 83]
+		],
+		[
+			"Philly Nice",
+			"pico",
+			[148, 22, 83]
+		],
+		[
+			"Blammed",
+			"pico",
+			[148, 22, 83]
+		]
+	],
+	"colors": ["F9CF51", "B79839"],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "week3",
+	"difficulties": "Easy,Normal,Hard",
+	"weekCharacters": ["pico", "bf", "gf"],
+	"storyName": "Pico",
+	"weekName": "Week 3",
+	"hideStoryMode": false,
+	"weekBefore": "week2",
+	"startUnlocked": true
+}

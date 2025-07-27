@@ -1,0 +1,59 @@
+{
+	"events": [
+		[
+			13714.2857142857,
+			[
+				["PlayAnimation", "hey", "true"]
+			]
+		],
+		[
+			13714.2857142857,
+			[
+				["PlayAnimation", "gf", "true"]
+			]
+		],
+		[
+			24728.5714285714,
+			[
+				["PlayAnimation", "hey", "true"]
+			]
+		],
+		[
+			35700,
+			[
+				["PlayAnimation", "hey", "true"]
+			]
+		],
+		[
+			46671.4285714286,
+			[
+				["PlayAnimation", "hey", "true"]
+			]
+		],
+		[
+			57642.8571428571,
+			[
+				["PlayAnimation", "hey", "true"]
+			]
+		],
+		[
+			57685.7142857143,
+			[
+				["ZoomCamera", "expoOut", "12"]
+			]
+		],
+		[
+			79585.7142857143,
+			[
+				["PlayAnimation", "hey", "true"]
+			]
+		],
+		[
+			79628.5714285714,
+			[
+				["ZoomCamera", "expoOut", "24"]
+			]
+		]
+	],
+	"format": "psych_v1_convert"
+}
