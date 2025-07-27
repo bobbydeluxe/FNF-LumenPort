@@ -1,0 +1,209 @@
+{
+	"events": [
+		[
+			13263.1578947368,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			18315.7894736842,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			23368.4210526316,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			28421.0526315789,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			32842.1052631579,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			37263.1578947368,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			44361.6541353384,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			48933.0827067669,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			53504.5112781955,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			58075.939849624,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			62361.6541353383,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			66933.0827067669,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			71504.5112781955,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			76075.939849624,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			82085.2072040567,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			84295.7335198461,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			86822.0493093198,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			92190.4703619514,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			97243.1019408987,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			99453.6282566882,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			101979.944046162,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			109558.891414583,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			117330.422515061,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			124603.149787789,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			133877.969110725,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			137887.383336667,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			141904.11973834,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			145920.856140014,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			149686.546516583,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			153703.282918257,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			157720.01931993,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			161736.755721604,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			166004.538148382,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			170021.274550056,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		]
+	],
+	"format": "psych_v1"
+}
