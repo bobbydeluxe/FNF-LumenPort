@@ -1,6 +1,30 @@
 {
 	"events": [
 		[
+			0,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			2000,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			4000,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			6000,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
 			8000,
 			[
 				["Set GF Speed", "2", ""]
@@ -43,15 +67,28 @@
 			]
 		],
 		[
-			19875,
+			20000,
 			[
-				["Set Camera Target", "", ""]
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			22000,
+			[
+				["Set Camera Target", "BF", ""]
 			]
 		],
 		[
 			24000,
 			[
+				["Set Camera Target", "Dad", ""],
 				["Set GF Speed", "1", ""]
+			]
+		],
+		[
+			28000,
+			[
+				["Set Camera Target", "BF", ""]
 			]
 		],
 		[
@@ -109,15 +146,28 @@
 			]
 		],
 		[
-			51875,
+			52000,
 			[
-				["Set Camera Target", "", ""]
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			54000,
+			[
+				["Set Camera Target", "BF", ""]
 			]
 		],
 		[
 			56000,
 			[
+				["Set Camera Target", "Dad", ""],
 				["Set GF Speed", "1", ""]
+			]
+		],
+		[
+			60000,
+			[
+				["Set Camera Target", "BF", ""]
 			]
 		],
 		[
@@ -133,9 +183,27 @@
 			]
 		],
 		[
-			71875,
+			72000,
 			[
-				["Set Camera Target", "", ""]
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			74000,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			76000,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			78000,
+			[
+				["Set Camera Target", "BF", ""]
 			]
 		]
 	],

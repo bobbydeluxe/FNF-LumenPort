@@ -7,103 +7,55 @@
 			]
 		],
 		[
-			6400,
+			11636.3636363636,
 			[
 				["Set Camera Target", "Dad", ""]
 			]
 		],
 		[
-			9600,
+			17454.5454545455,
 			[
 				["Set Camera Target", "BF", ""]
 			]
 		],
 		[
-			12800,
+			23272.7272727273,
 			[
 				["Set Camera Target", "Dad", ""]
 			]
 		],
 		[
-			15600,
-			[
-				["Play Animation", "cheer", "Dad"]
-			]
-		],
-		[
-			16000,
+			29090.9090909091,
 			[
 				["Set Camera Target", "BF", ""]
 			]
 		],
 		[
-			18800,
-			[
-				["Play Animation", "cheer", "BF"]
-			]
-		],
-		[
-			19200,
+			34909.0909090909,
 			[
 				["Set Camera Target", "Dad", ""]
 			]
 		],
 		[
-			25600,
+			40727.2727272727,
 			[
 				["Set Camera Target", "BF", ""]
 			]
 		],
 		[
-			32000,
+			46545.4545454546,
 			[
 				["Set Camera Target", "Dad", ""]
 			]
 		],
 		[
-			35200,
+			52363.6363636364,
 			[
 				["Set Camera Target", "BF", ""]
 			]
 		],
 		[
-			38400,
-			[
-				["Set Camera Target", "Dad", ""]
-			]
-		],
-		[
-			41200,
-			[
-				["Play Animation", "cheer", "Dad"]
-			]
-		],
-		[
-			41600,
-			[
-				["Set Camera Target", "BF", ""]
-			]
-		],
-		[
-			44400,
-			[
-				["Play Animation", "cheer", "BF"]
-			]
-		],
-		[
-			44800,
-			[
-				["Set Camera Target", "Dad", ""]
-			]
-		],
-		[
-			51200,
-			[
-				["Set Camera Target", "BF", ""]
-			]
-		],
-		[
-			57600,
+			58181.8181818182,
 			[
 				["Set Camera Target", "Dad", ""]
 			]
@@ -115,25 +67,13 @@
 			]
 		],
 		[
-			70400,
+			69818.1818181819,
 			[
 				["Set Camera Target", "Dad", ""]
 			]
 		],
 		[
-			76800,
-			[
-				["Set Camera Target", "BF", ""]
-			]
-		],
-		[
-			83200,
-			[
-				["Set Camera Target", "Dad", ""]
-			]
-		],
-		[
-			89600,
+			75636.3636363637,
 			[
 				["Set Camera Target", "BF", ""]
 			]

@@ -1,6 +1,24 @@
 {
 	"events": [
 		[
+			0,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			2526.31578947368,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			7578.94736842105,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
 			13263.1578947368,
 			[
 				["Set Camera Target", "Dad", ""]
