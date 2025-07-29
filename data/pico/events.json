@@ -1,0 +1,95 @@
+{
+	"events": [
+		[
+			0,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			3800,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			10200,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			16200,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			22600,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			29000,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			35400,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			41800,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			48200,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			54400,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			56000,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			57600,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			61000,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			67400,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			73800,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

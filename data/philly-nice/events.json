@@ -1,59 +1,120 @@
 {
 	"events": [
 		[
-			13714.2857142857,
+			0,
 			[
-				["PlayAnimation", "hey", "true"]
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			2914.28571428571,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			8400,
+			[
+				["Set Camera Target", "BF", ""]
 			]
 		],
 		[
 			13714.2857142857,
 			[
-				["PlayAnimation", "gf", "true"]
+				["Hey!", "Both", ""]
 			]
 		],
 		[
-			24728.5714285714,
+			14057.1428571429,
 			[
-				["PlayAnimation", "hey", "true"]
+				["Set Camera Target", "Dad", ""]
 			]
 		],
 		[
-			35700,
+			19542.8571428571,
 			[
-				["PlayAnimation", "hey", "true"]
+				["Set Camera Target", "BF", ""]
 			]
 		],
 		[
-			46671.4285714286,
+			24685.7142857143,
 			[
-				["PlayAnimation", "hey", "true"]
+				["Set Camera Target", "Dad", ""],
+				["Hey!", "BF", ""]
 			]
 		],
 		[
-			57642.8571428571,
+			30171.4285714286,
 			[
-				["PlayAnimation", "hey", "true"]
+				["Set Camera Target", "BF", ""]
 			]
 		],
 		[
-			57685.7142857143,
+			35657.1428571429,
 			[
-				["ZoomCamera", "expoOut", "12"]
+				["Set Camera Target", "Dad", ""],
+				["Hey!", "BF", ""]
 			]
 		],
 		[
-			79585.7142857143,
+			41142.8571428572,
 			[
-				["PlayAnimation", "hey", "true"]
+				["Set Camera Target", "BF", ""]
 			]
 		],
 		[
-			79628.5714285714,
+			46628.5714285714,
 			[
-				["ZoomCamera", "expoOut", "24"]
+				["Set Camera Target", "Dad", ""],
+				["Hey!", "BF", ""]
+			]
+		],
+		[
+			52114.2857142857,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			57600,
+			[
+				["Set Camera Target", "Dad", ""],
+				["Set Camera Zoom", "1.05,stage", "12,expoOut"],
+				["Hey!", "BF", ""]
+			]
+		],
+		[
+			63085.7142857143,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			68571.4285714286,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			74057.1428571428,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			79542.8571428571,
+			[
+				["Set Camera Target", "Dad", ""],
+				["Set Camera Zoom", "1,stage", "24,expoOut"],
+				["Hey!", "BF", ""]
+			]
+		],
+		[
+			85028.5714285714,
+			[
+				["Set Camera Target", "BF", ""]
 			]
 		]
 	],
-	"format": "psych_v1_convert"
+	"format": "psych_v1"
 }
