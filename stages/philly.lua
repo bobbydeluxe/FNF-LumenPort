@@ -8,8 +8,8 @@ function onEventPushed(event, value1, value2, strumTime)
 		addLuaSprite('blackenScreen')
 		setProperty('blackenScreen.visible', false)
 
-		makeLuaSprite('windowEvent', 'philly/window', -10, 0)
-		setGraphicSize('windowEvent', getProperty('windowEvent.width') * 0.85)
+		makeLuaSprite('windowEvent', 'philly/window', -255, 45)
+		setGraphicSize('windowEvent', getProperty('windowEvent.width') * 0.9)
 		setScrollFactor('windowEvent', 0.3, 0.3)
 		setObjectOrder('windowEvent', getObjectOrder('blackenScreen') + 1)
 		addLuaSprite('windowEvent')
@@ -219,7 +219,9 @@ function onEvent(eventName, value1, value2, strumTime)
 			setProperty('windowEvent.color', getColorFromHex(windowsEventColors[selectedEventColor]))
 			setProperty('gradient.color', getColorFromHex(windowsEventColors[selectedEventColor]))
 			for num = 1, #phillyGlowParticles do
-				setProperty('particle'..num..'.color', getColorFromHex(windowsEventColors[selectedEventColor]))
+				if luaSpriteExists('particle'..num) then
+					setProperty('particle'..num..'.color', getColorFromHex(windowsEventColors[selectedEventColor]))
+				end
 			end
 
 			setProperty('street.color', streetColors[selectedEventColor])
