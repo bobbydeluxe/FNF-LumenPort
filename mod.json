@@ -1,0 +1,9 @@
+{
+	"name": "FNF: Lumen Port",
+	"description": "A faithful port of the original Friday Night Funkin' content, including all base weeks and official remixes.\nComes (not) pre-installed with Lumen Engine.",
+	"restart": false,
+	"runsGlobally": true,
+	"color": [89, 104, 255],
+	"discordRPC": "863222024192262205",
+	"iconFramerate": 10
+}
