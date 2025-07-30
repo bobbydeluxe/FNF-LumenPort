@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Cocoa",
+			"parents",
+			[160, 209, 255]
+		],
+		[
+			"Eggnog",
+			"parents",
+			[160, 209, 255]
+		],
+		[
+			"Winter Horrorland",
+			"monster",
+			[160, 209, 255]
+		]
+	],
+	"colors": ["F9CF51", "B79839"],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "week5",
+	"difficulties": "Easy,Normal,Hard",
+	"weekCharacters": ["parents", "bf", "gf"],
+	"storyName": "Red Snow",
+	"weekName": "Week 5",
+	"hideStoryMode": false,
+	"weekBefore": "week4",
+	"startUnlocked": true
+}
