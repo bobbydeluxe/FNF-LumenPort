@@ -3,141 +3,133 @@
 		[
 			0,
 			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			2181.81818181818,
+			[
 				["Set Camera Target", "BF", ""]
 			]
 		],
 		[
-			2666.66666666667,
+			4636.36363636364,
 			[
 				["Set Camera Target", "Dad", ""]
 			]
 		],
 		[
-			8000,
+			8727.27272727273,
 			[
 				["Set Camera Target", "BF", ""]
 			]
 		],
 		[
-			13333.3333333333,
+			13090.9090909091,
 			[
 				["Set Camera Target", "Dad", ""]
 			]
 		],
 		[
-			18666.6666666667,
+			17454.5454545455,
 			[
 				["Set Camera Target", "BF", ""]
 			]
 		],
 		[
-			24000,
-			[
-				["Set Camera Target", "Dad", ""]
-			]
-		],
-		[
-			29333.3333333333,
-			[
-				["Set Camera Target", "BF", ""]
-			]
-		],
-		[
-			34666.6666666667,
-			[
-				["Set Camera Target", "Dad", ""]
-			]
-		],
-		[
-			40000,
-			[
-				["Set Camera Target", "BF", ""]
-			]
-		],
-		[
-			45333.3333333333,
-			[
-				["Set Camera Target", "Dad", ""]
-			]
-		],
-		[
-			50666.6666666667,
-			[
-				["Set Camera Target", "BF", ""]
-			]
-		],
-		[
-			56000,
-			[
-				["Set Camera Target", "Dad", ""],
-				["Set Camera Bop", "1", "2.5"]
-			]
-		],
-		[
-			61333.3333333334,
-			[
-				["Set Camera Target", "BF", ""]
-			]
-		],
-		[
-			66666.6666666667,
-			[
-				["Set Camera Target", "Dad", ""],
-				["Set Camera Bop", "4", "1"]
-			]
-		],
-		[
-			72000,
-			[
-				["Set Camera Target", "BF", ""]
-			]
-		],
-		[
-			77333.3333333333,
-			[
-				["Set Camera Target", "GF", ""],
-				["Kill Henchmen", "", ""]
-			]
-		],
-		[
-			86500,
-			[
-				["Set Camera Target", "BF", ""]
-			]
-		],
-		[
-			89000,
-			[
-				["Set Camera Target", "Dad", ""]
-			]
-		],
-		[
-			93333.3333333333,
-			[
-				["Set Camera Target", "BF", ""]
-			]
-		],
-		[
-			98666.6666666666,
+			21818.1818181818,
 			[
 				["Set Camera Target", "Dad", ""],
 				["Kill Henchmen", "", ""]
 			]
 		],
 		[
-			104000,
+			26181.8181818182,
 			[
 				["Set Camera Target", "BF", ""]
 			]
 		],
 		[
-			109333.333333333,
+			30545.4545454545,
 			[
 				["Set Camera Target", "Dad", ""]
 			]
 		],
 		[
-			114666.666666667,
+			34909.0909090909,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			39272.7272727273,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			43636.3636363636,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			48272.7272727273,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			52363.6363636364,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			56727.2727272727,
+			[
+				["Set Camera Target", "Dad", ""],
+				["Kill Henchmen", "", ""]
+			]
+		],
+		[
+			61090.9090909091,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			65454.5454545455,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			69818.1818181818,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			74181.8181818182,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			78545.4545454545,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			82909.0909090909,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			85363.6363636363,
 			[
 				["Set Camera Target", "BF", ""]
 			]

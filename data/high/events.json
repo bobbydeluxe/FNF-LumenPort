@@ -1,0 +1,99 @@
+{
+	"events": [
+		[
+			0,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			3840,
+			[
+				["Set Camera Target", "Dad", ""],
+				["Kill Henchmen", "", ""]
+			]
+		],
+		[
+			11520,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			19200,
+			[
+				["Set Camera Target", "Dad", ""],
+				["Kill Henchmen", "", ""]
+			]
+		],
+		[
+			26880,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			34560,
+			[
+				["Set Camera Target", "Dad", ""],
+				["Kill Henchmen", "", ""]
+			]
+		],
+		[
+			42240,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			49920,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			57600,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			65280,
+			[
+				["Set Camera Target", "Dad", ""],
+				["Kill Henchmen", "", ""]
+			]
+		],
+		[
+			72960,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			80640,
+			[
+				["Kill Henchmen", "", ""]
+			]
+		],
+		[
+			90240,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			92160,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			96000,
+			[
+				["Kill Henchmen", "", ""]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

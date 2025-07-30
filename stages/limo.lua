@@ -128,7 +128,10 @@ function killHenchmen()
 			setProperty('henchmanCorpse1.visible', false)
 			setProperty('henchmanCorpse2.visible', false)
 			curKillState = 1
+			--[[
+			I'll add it back when achievements will be implemented
 			addAchievementScore('roadkill_enthusiast')
+			]]
 		end
 	end
 end
