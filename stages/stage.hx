@@ -10,18 +10,18 @@ function onCreate() {
     insert(1, stageFront);
 
     if (!ClientPrefs.data.lowQuality) {
-        var stageLight:BGSprite = new BGSprite('stage_light', -125, -100, 0.9, 0.9);
+        var stageLight:BGSprite = new BGSprite('stage/stage_light', -125, -100, 0.9, 0.9);
         stageLight.setGraphicSize(Std.int(stageLight.width * 1.1));
         stageLight.updateHitbox();
         insert(2, stageLight);
         
-        var stageLight:BGSprite = new BGSprite('stage_light', 1225, -100, 0.9, 0.9);
+        var stageLight:BGSprite = new BGSprite('stage/stage_light', 1225, -100, 0.9, 0.9);
         stageLight.setGraphicSize(Std.int(stageLight.width * 1.1));
         stageLight.updateHitbox();
         stageLight.flipX = true;
         insert(3, stageLight);
 
-        var stageCurtains:BGSprite = new BGSprite('stagecurtains', -500, -300, 1.3, 1.3);
+        var stageCurtains:BGSprite = new BGSprite('stage/stagecurtains', -500, -300, 1.3, 1.3);
         stageCurtains.setGraphicSize(Std.int(stageCurtains.width * 0.9));
         stageCurtains.updateHitbox();
         add(stageCurtains);
