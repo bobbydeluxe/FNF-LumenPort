@@ -1,0 +1,119 @@
+{
+	"events": [
+		[
+			0,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			9000,
+			[
+				["Hey!", "GF", ""]
+			]
+		],
+		[
+			9600,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			18600,
+			[
+				["Hey!", "GF", ""]
+			]
+		],
+		[
+			19500,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			28200,
+			[
+				["Hey!", "GF", ""]
+			]
+		],
+		[
+			28800,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			37800,
+			[
+				["Hey!", "GF", ""]
+			]
+		],
+		[
+			39000,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			48600,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			57750,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			67350,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			76800,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			81600,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			85800,
+			[
+				["Hey!", "GF", ""]
+			]
+		],
+		[
+			86400,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			91200,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			96000,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			100800,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		]
+	],
+	"format": "psych_v1"
+}
