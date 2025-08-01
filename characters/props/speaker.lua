@@ -74,28 +74,6 @@ function onEvent(eventName, value1, value2, strumTime)
     end
 end
 
-function onCountdownTick(swagCounter)
-    --[[
-        Makes the speaker bop at the same time as the character.
-        Ex: If the character only bops their head when the beat is even,
-        then the speaker will also do the same.
-        This will only work during the countdown.
-    ]]
-    if characterType == 'gf' then
-        characterSpeed = getProperty('gfSpeed')
-    else
-        characterSpeed = 1
-    end
-    if characterType ~= '' then
-        danceEveryNumBeats = getProperty(characterType..'.danceEveryNumBeats')
-    else
-        danceEveryNumBeats = 1
-    end
-    if swagCounter % (danceEveryNumBeats * characterSpeed) == 0 then
-        playAnim('speaker', 'idle', true)
-    end
-end
-
 function onBeatHit()
     --[[
         Ditto, but it works for every beat of the song.
