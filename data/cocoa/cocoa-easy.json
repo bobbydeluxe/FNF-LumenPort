@@ -62,7 +62,7 @@
 			"sectionNotes": [
 				[9600, 0, 0],
 				[10200, 2, 0],
-				[10500, 2, 0, "mom"],
+				[10500, 2, 0],
 				[10950, 1, 0],
 				[11250, 3, 0],
 				[11700, 0, 0]
@@ -74,7 +74,7 @@
 			"sectionNotes": [
 				[12000, 0, 0],
 				[12600, 2, 0],
-				[12900, 2, 0, "mom"],
+				[12900, 2, 0],
 				[13350, 1, 0],
 				[13650, 3, 0],
 				[14100, 0, 0]
@@ -110,53 +110,53 @@
 		},
 		{
 			"sectionNotes": [
-				[19500, 7, 150, "mom"],
-				[19800, 5, 450, "mom"],
-				[20400, 6, 1050, "mom"]
+				[19500, 7, 150, "Alt Animation"],
+				[19800, 5, 450, "Alt Animation"],
+				[20400, 6, 1050, "Alt Animation"]
 			],
 			"sectionBeats": 4,
 			"mustHitSection": false
 		},
 		{
 			"sectionNotes": [
-				[22500, 5, 0, "mom"],
-				[22800, 5, 0, "mom"],
-				[23100, 5, 0, "mom"],
-				[23400, 7, 0, "mom"],
-				[23700, 5, 0, "mom"]
+				[22500, 5, 0, "Alt Animation"],
+				[22800, 5, 0, "Alt Animation"],
+				[23100, 5, 0, "Alt Animation"],
+				[23400, 7, 0, "Alt Animation"],
+				[23700, 5, 0, "Alt Animation"]
 			],
 			"sectionBeats": 4,
 			"mustHitSection": false
 		},
 		{
 			"sectionNotes": [
-				[24000, 4, 0, "mom"],
-				[24300, 6, 0, "mom"],
-				[24900, 4, 0, "mom"],
-				[25200, 7, 0, "mom"],
-				[25500, 6, 0, "mom"],
-				[25800, 4, 0, "mom"],
-				[26100, 7, 0, "mom"]
+				[24000, 4, 0, "Alt Animation"],
+				[24300, 6, 0, "Alt Animation"],
+				[24900, 4, 0, "Alt Animation"],
+				[25200, 7, 0, "Alt Animation"],
+				[25500, 6, 0, "Alt Animation"],
+				[25800, 4, 0, "Alt Animation"],
+				[26100, 7, 0, "Alt Animation"]
 			],
 			"sectionBeats": 4,
 			"mustHitSection": false
 		},
 		{
 			"sectionNotes": [
-				[26700, 4, 0, "mom"],
-				[27000, 7, 0, "mom"],
-				[27300, 6, 0, "mom"],
-				[27600, 4, 0, "mom"],
-				[27900, 6, 0, "mom"],
-				[28200, 7, 0, "mom"],
-				[28500, 5, 0, "mom"]
+				[26700, 4, 0, "Alt Animation"],
+				[27000, 7, 0, "Alt Animation"],
+				[27300, 6, 0, "Alt Animation"],
+				[27600, 4, 0, "Alt Animation"],
+				[27900, 6, 0, "Alt Animation"],
+				[28200, 7, 0, "Alt Animation"],
+				[28500, 5, 0, "Alt Animation"]
 			],
 			"sectionBeats": 4,
 			"mustHitSection": false
 		},
 		{
 			"sectionNotes": [
-				[28800, 6, 600, "mom"],
+				[28800, 6, 600, "Alt Animation"],
 				[29100, 3, 150],
 				[29400, 1, 450],
 				[30000, 2, 1050]
@@ -167,7 +167,7 @@
 		{
 			"sectionNotes": [
 				[32100, 1, 0],
-				[32400, 1, 0, "mom"],
+				[32400, 1, 0],
 				[32700, 1, 0],
 				[33000, 3, 0],
 				[33300, 1, 0]
@@ -177,13 +177,13 @@
 		},
 		{
 			"sectionNotes": [
-				[33600, 0, 0, "mom"],
+				[33600, 0, 0],
 				[33900, 2, 0],
-				[34500, 0, 0, "mom"],
+				[34500, 0, 0],
 				[34800, 3, 0],
-				[35100, 2, 0, "mom"],
-				[35400, 0, 0, "mom"],
-				[35700, 3, 0, "mom"]
+				[35100, 2, 0],
+				[35400, 0, 0],
+				[35700, 3, 0]
 			],
 			"sectionBeats": 4,
 			"mustHitSection": false
@@ -195,8 +195,8 @@
 				[36900, 2, 0],
 				[37200, 0, 0],
 				[37500, 2, 0],
-				[37800, 3, 0, "mom"],
-				[38100, 1, 0, "mom"]
+				[37800, 3, 0],
+				[38100, 1, 0]
 			],
 			"sectionBeats": 4,
 			"mustHitSection": false
@@ -295,48 +295,48 @@
 		},
 		{
 			"sectionNotes": [
-				[57750, 4, 0, "mom"],
-				[58200, 6, 450, "mom"],
-				[58800, 7, 450, "mom"],
-				[59400, 6, 150, "mom"],
-				[59700, 4, 750, "mom"]
+				[57750, 4, 0, "Alt Animation"],
+				[58200, 6, 450, "Alt Animation"],
+				[58800, 7, 450, "Alt Animation"],
+				[59400, 6, 150, "Alt Animation"],
+				[59700, 4, 750, "Alt Animation"]
 			],
 			"sectionBeats": 4,
 			"mustHitSection": false
 		},
 		{
 			"sectionNotes": [
-				[60600, 6, 300, "mom"],
-				[61200, 7, 450, "mom"],
-				[61800, 6, 450, "mom"]
+				[60600, 6, 300, "Alt Animation"],
+				[61200, 7, 450, "Alt Animation"],
+				[61800, 6, 450, "Alt Animation"]
 			],
 			"sectionBeats": 4,
 			"mustHitSection": false
 		},
 		{
 			"sectionNotes": [
-				[62400, 4, 0, "mom"],
-				[62700, 6, 0, "mom"],
-				[63000, 6, 0, "mom"],
-				[63300, 4, 0, "mom"],
-				[63600, 6, 0, "mom"],
-				[63900, 7, 0, "mom"],
-				[64200, 4, 0, "mom"],
-				[64500, 6, 0, "mom"]
+				[62400, 4, 0, "Alt Animation"],
+				[62700, 6, 0, "Alt Animation"],
+				[63000, 6, 0, "Alt Animation"],
+				[63300, 4, 0, "Alt Animation"],
+				[63600, 6, 0, "Alt Animation"],
+				[63900, 7, 0, "Alt Animation"],
+				[64200, 4, 0, "Alt Animation"],
+				[64500, 6, 0, "Alt Animation"]
 			],
 			"sectionBeats": 4,
 			"mustHitSection": false
 		},
 		{
 			"sectionNotes": [
-				[64800, 6, 0, "mom"],
-				[65100, 4, 0, "mom"],
-				[65400, 6, 0, "mom"],
-				[65700, 7, 0, "mom"],
-				[66000, 4, 0, "mom"],
-				[66300, 6, 0, "mom"],
-				[66600, 6, 0, "mom"],
-				[66900, 5, 0, "mom"]
+				[64800, 6, 0, "Alt Animation"],
+				[65100, 4, 0, "Alt Animation"],
+				[65400, 6, 0, "Alt Animation"],
+				[65700, 7, 0, "Alt Animation"],
+				[66000, 4, 0, "Alt Animation"],
+				[66300, 6, 0, "Alt Animation"],
+				[66600, 6, 0, "Alt Animation"],
+				[66900, 5, 0, "Alt Animation"]
 			],
 			"sectionBeats": 4,
 			"mustHitSection": false
@@ -363,28 +363,28 @@
 		},
 		{
 			"sectionNotes": [
-				[72000, 0, 0, "mom"],
-				[72300, 2, 0, "mom"],
-				[72600, 2, 0, "mom"],
-				[72900, 0, 0, "mom"],
-				[73200, 2, 0, "mom"],
-				[73500, 3, 0, "mom"],
-				[73800, 0, 0, "mom"],
-				[74100, 2, 0, "mom"]
+				[72000, 0, 0],
+				[72300, 2, 0],
+				[72600, 2, 0],
+				[72900, 0, 0],
+				[73200, 2, 0],
+				[73500, 3, 0],
+				[73800, 0, 0],
+				[74100, 2, 0]
 			],
 			"sectionBeats": 4,
 			"mustHitSection": false
 		},
 		{
 			"sectionNotes": [
-				[74400, 2, 0, "mom"],
-				[74700, 0, 0, "mom"],
-				[75000, 2, 0, "mom"],
-				[75300, 3, 0, "mom"],
-				[75600, 0, 0, "mom"],
-				[75900, 2, 0, "mom"],
-				[76200, 2, 0, "mom"],
-				[76500, 1, 0, "mom"]
+				[74400, 2, 0],
+				[74700, 0, 0],
+				[75000, 2, 0],
+				[75300, 3, 0],
+				[75600, 0, 0],
+				[75900, 2, 0],
+				[76200, 2, 0],
+				[76500, 1, 0]
 			],
 			"sectionBeats": 4,
 			"mustHitSection": false
@@ -417,7 +417,7 @@
 			"sectionNotes": [
 				[81600, 0, 0],
 				[82200, 2, 0],
-				[82500, 2, 0, "mom"],
+				[82500, 2, 0],
 				[82950, 1, 0],
 				[83250, 3, 0],
 				[83700, 0, 0]
@@ -429,7 +429,7 @@
 			"sectionNotes": [
 				[84000, 0, 0],
 				[84600, 2, 0],
-				[84900, 2, 0, "mom"],
+				[84900, 2, 0],
 				[85350, 1, 0],
 				[85650, 3, 0],
 				[86100, 0, 0]
@@ -439,28 +439,28 @@
 		},
 		{
 			"sectionNotes": [
-				[86400, 4, 0, "mom"],
-				[86700, 7, 0, "mom"],
-				[87000, 4, 0, "mom"],
-				[87300, 7, 0, "mom"],
-				[87600, 4, 0, "mom"],
-				[87900, 7, 0, "mom"],
-				[88200, 7, 0, "mom"],
-				[88500, 7, 0, "mom"]
+				[86400, 4, 0, "Alt Animation"],
+				[86700, 7, 0, "Alt Animation"],
+				[87000, 4, 0, "Alt Animation"],
+				[87300, 7, 0, "Alt Animation"],
+				[87600, 4, 0, "Alt Animation"],
+				[87900, 7, 0, "Alt Animation"],
+				[88200, 7, 0, "Alt Animation"],
+				[88500, 7, 0, "Alt Animation"]
 			],
 			"sectionBeats": 4,
 			"mustHitSection": false
 		},
 		{
 			"sectionNotes": [
-				[88800, 4, 0, "mom"],
-				[89100, 7, 0, "mom"],
-				[89400, 4, 0, "mom"],
-				[89700, 7, 0, "mom"],
-				[90000, 7, 0, "mom"],
-				[90300, 4, 0, "mom"],
-				[90600, 7, 0, "mom"],
-				[90900, 6, 0, "mom"]
+				[88800, 4, 0, "Alt Animation"],
+				[89100, 7, 0, "Alt Animation"],
+				[89400, 4, 0, "Alt Animation"],
+				[89700, 7, 0, "Alt Animation"],
+				[90000, 7, 0, "Alt Animation"],
+				[90300, 4, 0, "Alt Animation"],
+				[90600, 7, 0, "Alt Animation"],
+				[90900, 6, 0, "Alt Animation"]
 			],
 			"sectionBeats": 4,
 			"mustHitSection": false
@@ -469,7 +469,7 @@
 			"sectionNotes": [
 				[91200, 0, 0],
 				[91500, 3, 0],
-				[91800, 0, 0, "mom"],
+				[91800, 0, 0],
 				[92100, 3, 0],
 				[92400, 0, 0],
 				[92700, 3, 0],
@@ -483,10 +483,10 @@
 			"sectionNotes": [
 				[93600, 0, 0],
 				[93900, 3, 0],
-				[94200, 0, 0, "mom"],
+				[94200, 0, 0],
 				[94500, 3, 0],
 				[94800, 3, 0],
-				[95100, 0, 0, "mom"],
+				[95100, 0, 0],
 				[95400, 3, 0],
 				[95700, 2, 0]
 			],
@@ -495,38 +495,38 @@
 		},
 		{
 			"sectionNotes": [
-				[96000, 4, 0, "mom"],
-				[96300, 7, 0, "mom"],
-				[96600, 4, 0, "mom"],
-				[96900, 7, 0, "mom"],
-				[97200, 4, 0, "mom"],
-				[97500, 7, 0, "mom"],
-				[97800, 7, 0, "mom"],
-				[98100, 7, 0, "mom"]
+				[96000, 4, 0, "Alt Animation"],
+				[96300, 7, 0, "Alt Animation"],
+				[96600, 4, 0, "Alt Animation"],
+				[96900, 7, 0, "Alt Animation"],
+				[97200, 4, 0, "Alt Animation"],
+				[97500, 7, 0, "Alt Animation"],
+				[97800, 7, 0, "Alt Animation"],
+				[98100, 7, 0, "Alt Animation"]
 			],
 			"sectionBeats": 4,
 			"mustHitSection": false
 		},
 		{
 			"sectionNotes": [
-				[98400, 4, 0, "mom"],
-				[98700, 7, 0, "mom"],
-				[99000, 4, 0, "mom"],
-				[99300, 7, 0, "mom"],
-				[99600, 7, 0, "mom"],
-				[99900, 4, 0, "mom"],
-				[100200, 7, 0, "mom"],
-				[100500, 6, 0, "mom"]
+				[98400, 4, 0, "Alt Animation"],
+				[98700, 7, 0, "Alt Animation"],
+				[99000, 4, 0, "Alt Animation"],
+				[99300, 7, 0, "Alt Animation"],
+				[99600, 7, 0, "Alt Animation"],
+				[99900, 4, 0, "Alt Animation"],
+				[100200, 7, 0, "Alt Animation"],
+				[100500, 6, 0, "Alt Animation"]
 			],
 			"sectionBeats": 4,
 			"mustHitSection": false
 		},
 		{
 			"sectionNotes": [
-				[100800, 7, 600, "mom"],
+				[100800, 7, 600, "Alt Animation"],
 				[100800, 0, 0],
 				[101100, 3, 0],
-				[101400, 0, 0, "mom"],
+				[101400, 0, 0],
 				[101700, 3, 0],
 				[102000, 0, 0],
 				[102300, 3, 0],
@@ -540,10 +540,10 @@
 			"sectionNotes": [
 				[103200, 0, 0],
 				[103500, 3, 0],
-				[103800, 0, 0, "mom"],
+				[103800, 0, 0],
 				[104100, 3, 0],
 				[104400, 3, 0],
-				[104700, 0, 0, "mom"],
+				[104700, 0, 0],
 				[105000, 3, 0],
 				[105300, 2, 0],
 				[105600, 3, 600]
