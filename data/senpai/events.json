@@ -1,0 +1,161 @@
+{
+	"events": [
+		[
+			0,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			3333.33333333333,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			6666.66666666667,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			8333.33333333333,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			10000,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			11666.6666666667,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			13750,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			20000,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			26666.6666666667,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			28333.3333333333,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			30000,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			31666.6666666667,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			40000,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			46666.6666666667,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			53333.3333333333,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			56666.6666666666,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			60000,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			61666.6666666666,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			63333.3333333333,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			65000,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			66666.6666666666,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			70000,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			73333.3333333333,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			76666.6666666667,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			80000,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			86666.6666666667,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		]
+	],
+	"format": "psych_v1"
+}

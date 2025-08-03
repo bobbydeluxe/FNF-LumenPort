@@ -1,0 +1,143 @@
+{
+	"events": [
+		[
+			-6000,
+			[
+				["BG Freaks Expression", "", ""]
+			]
+		],
+		[
+			500,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			4500,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			8000,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			12000,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			16500,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			20500,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			24000,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			28000,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			32000,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			36000,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			40000,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			44000,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			48000,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			52000,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			56000,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			60000,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			64500,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			68500,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			72000,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			76000,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		],
+		[
+			80000,
+			[
+				["Set Camera Target", "Dad", ""]
+			]
+		],
+		[
+			84000,
+			[
+				["Set Camera Target", "BF", ""]
+			]
+		]
+	],
+	"format": "psych_v1"
+}
