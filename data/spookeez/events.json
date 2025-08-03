@@ -27,7 +27,7 @@
 		[
 			15600,
 			[
-				["Play Animation", "cheer", "Dad"]
+				["Cheer!", "Dad", ""]
 			]
 		],
 		[
@@ -39,7 +39,7 @@
 		[
 			18800,
 			[
-				["Play Animation", "cheer", "BF"]
+				["Cheer!", "BF", ""]
 			]
 		],
 		[
@@ -75,7 +75,7 @@
 		[
 			41200,
 			[
-				["Play Animation", "cheer", "Dad"]
+				["Cheer!", "Dad", ""]
 			]
 		],
 		[
@@ -87,7 +87,7 @@
 		[
 			44400,
 			[
-				["Play Animation", "cheer", "BF"]
+				["Cheer!", "BF", ""]
 			]
 		],
 		[

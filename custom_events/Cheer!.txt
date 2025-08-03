@@ -1,0 +1,5 @@
+Plays the "Cheer!" animation from Spookeez,
+Value 1: Either BF, GF, or Dad
+for the respective characters.
+Value 2: Custom animation duration,
+leave it blank for 0.6s

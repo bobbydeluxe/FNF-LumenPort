@@ -53,8 +53,7 @@
 			[
 				["Set Camera Target", "Dad", ""],
 				["Set Camera Zoom", "1.1,stage", "32,expoOut"],
-				["Dadbattle Spotlight", "1", ""],
-				["Dadbattle Spotlight", "2", ""]
+				["Dadbattle Spotlight", "1", ""]
 			]
 		],
 		[

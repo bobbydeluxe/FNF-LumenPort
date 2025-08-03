@@ -25,7 +25,7 @@ end
 
 function onEvent(eventName, value1, value2)
 	if eventName == 'Hey!' then
-		if value1 ~= '0' or string.lower(value1) ~= 'bf' or string.lower(value1) ~= 'boyfriend' then
+		if value1 == '2' or string.lower(value1) == 'gf' or string.lower(value1) == 'girlfriend' then
 			playAnim('bottomBoppers', 'hey', true)
 			if value2 == '' then
 				heyTimer = 0.6
