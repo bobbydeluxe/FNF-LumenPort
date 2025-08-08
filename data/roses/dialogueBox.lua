@@ -5,7 +5,7 @@
     The rest will be handled by the script itself.
 ]]
 dialogueBoxData = {
-    musicName = 'Lunchbox', -- The music that plays on loop during the dialogue.
+    musicName = '', -- The music that plays on loop during the dialogue.
     soundIntro = 'ANGRY_TEXT_BOX', -- The sound that plays when the dialogue appears.
     useMusic = false, -- Enables or not the music during the dialogue.
     useSoundIntro = true -- Enables or not the sound when the dialogue appears.
@@ -66,7 +66,7 @@ function createDialogueBox(isMad)
         setProperty('dialogueBG.alpha', 0.7)
     end
 
-    makeAnimatedLuaSprite('dialogueBox', 'weeb/pixelUI/dialogueBox-school', -20, 40)
+    makeAnimatedLuaSprite('dialogueBox', 'weeb/pixelUI/dialogueBox', -20, 40)
     addAnimationByPrefix('dialogueBox', 'open', 'normalEntrance', 24, false)
     addAnimationByPrefix('dialogueBox', 'openMad', 'madEntrance', 24, false)
     setObjectCamera('dialogueBox', 'camHUD')

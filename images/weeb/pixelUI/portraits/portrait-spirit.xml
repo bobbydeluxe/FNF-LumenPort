@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="portrait-spirit.png">
+    <SubTexture name="portraitEnter0000" x="0" y="0" width="59" height="106" frameX="0" frameY="0" frameWidth="59" frameHeight="106" />
+    <SubTexture name="portraitEnter0001" x="0" y="0" width="59" height="106" frameX="0" frameY="0" frameWidth="59" frameHeight="106" />
+    <SubTexture name="portraitEnter0002" x="59" y="0" width="59" height="106" frameX="0" frameY="0" frameWidth="59" frameHeight="106" />
+    <SubTexture name="portraitEnter0003" x="59" y="0" width="59" height="106" frameX="0" frameY="0" frameWidth="59" frameHeight="106" />
+    <SubTexture name="portraitEnter0004" x="0" y="106" width="59" height="106" frameX="0" frameY="0" frameWidth="59" frameHeight="106" />
+    <SubTexture name="portraitEnter0005" x="0" y="106" width="59" height="106" frameX="0" frameY="0" frameWidth="59" frameHeight="106" />
+    <SubTexture name="portraitEnter0006" x="59" y="106" width="59" height="106" frameX="0" frameY="0" frameWidth="59" frameHeight="106" />
+    <SubTexture name="portraitEnter0007" x="59" y="106" width="59" height="106" frameX="0" frameY="0" frameWidth="59" frameHeight="106" />
+    <SubTexture name="portraitTalk0000" x="59" y="106" width="59" height="106" frameX="0" frameY="0" frameWidth="59" frameHeight="106" />
+    <SubTexture name="portraitTalk0001" x="59" y="106" width="59" height="106" frameX="0" frameY="0" frameWidth="59" frameHeight="106" />
+</TextureAtlas>

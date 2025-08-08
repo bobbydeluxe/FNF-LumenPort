@@ -5,24 +5,23 @@
     The rest will be handled by the script itself.
 ]]
 dialogueBoxData = {
-    musicName = 'Lunchbox', -- The music that plays on loop during the dialogue.
+    musicName = 'LunchboxScary', -- The music that plays on loop during the dialogue.
     soundIntro = '', -- The sound that plays when the dialogue appears.
     useMusic = true, -- Enables or not the music during the dialogue.
     useSoundIntro = false -- Enables or not the sound when the dialogue appears.
 }
 -- This character will be on the right.
 bfDialogueData = {
-    name = 'boyfriend', -- characterName
+    name = '', -- characterName
     expressions = {
         -- expressionName = {x = offsetX, y = offsetY}
-        normal = {x = 50, y = -70}
     }
 }
 -- This character will be on the left.
 dadDialogueData = {
-    name = 'senpai',
+    name = 'spirit',
     expressions = {
-        normal = {x = 0, y = 0}
+        normal = {x = 30, y = 50}
     }
 }
 -- This character will be in the middle.
@@ -44,7 +43,7 @@ function onCreate()
 end
 
 local dialogueList = {}
-function createDialogueBox(isMad)
+function createDialogueBox()
    local dialoguePath = ''
     local curLanguage = getPropertyFromClass('backend.ClientPrefs', 'data.language')
     if checkFileExists('data/'..songPath..'/dialogue_'..curLanguage..'.txt') then
@@ -66,19 +65,14 @@ function createDialogueBox(isMad)
         setProperty('dialogueBG.alpha', 0.7)
     end
 
-    makeAnimatedLuaSprite('dialogueBox', 'weeb/pixelUI/dialogueBox', -20, 40)
-    addAnimationByPrefix('dialogueBox', 'open', 'normalEntrance', 24, false)
-    addAnimationByPrefix('dialogueBox', 'openMad', 'madEntrance', 24, false)
+    makeAnimatedLuaSprite('dialogueBox', 'weeb/pixelUI/dialogueBox-evil', -20, 40)
+    addAnimationByPrefix('dialogueBox', 'open', 'Spirit Textbox spawn', 24, false)
     setObjectCamera('dialogueBox', 'camHUD')
     scaleObject('dialogueBox', 6 * 0.9, 6 * 0.9)
     screenCenter('dialogueBox', 'x')
     addLuaSprite('dialogueBox', true)
     setProperty('dialogueBox.antialiasing', false)
-    if isMad == true then
-        playAnim('dialogueBox', 'openMad')
-    else
-        playAnim('dialogueBox', 'open')
-    end
+    playAnim('dialogueBox', 'open')
 
     makeAnimatedLuaSprite('portraitLeft', 'weeb/pixelUI/portraits/portrait-'..dadDialogueData.name, 330, 265)
     addAnimationByPrefix('portraitLeft', 'appear', 'portraitEnter', 24, false)
@@ -107,7 +101,7 @@ function createDialogueBox(isMad)
     setProperty('portraitMiddle.antialiasing', false)
     setProperty('portraitMiddle.visible', false)
 
-    makeLuaSprite('handSelectBox', 'weeb/pixelUI/hand_textbox', 1042, 585)
+    makeLuaSprite('handSelectBox', 'weeb/pixelUI/hand_textbox-evil', 1080, 623)
     setObjectCamera('handSelectBox', 'camHUD')
     scaleObject('handSelectBox', 6 * 0.9, 6 * 0.9)
     addLuaSprite('handSelectBox', true)
@@ -117,8 +111,7 @@ function createDialogueBox(isMad)
     createInstance('dialogueText', 'flixel.addons.text.FlxTypeText', {200, 495, screenWidth * 0.7, '', 32})
     setObjectCamera('dialogueText', 'camHUD')
     setTextFont('dialogueText', 'pixel-latin.ttf')
-    setTextColor('dialogueText', '3F2021')
-    setTextBorder('dialogueText', 1, 'D89494', 'shadow')
+    setTextColor('dialogueText', 'FFFFFF')
     addInstance('dialogueText', true)
     callMethod('dialogueText.shadowOffset.set', {2, 2})
     runHaxeCode([[
