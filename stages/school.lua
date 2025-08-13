@@ -1,9 +1,28 @@
+local pauseMusic = ''
 function onCreate()
     --[[
         Add the animation through scripting since the Stage Editor
         doesn't support .txt files for animations.
     ]]
     addAnimation('trees', 'anim', {0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18}, 12)
+
+    -- Default Game Over.
+	setPropertyFromClass('substates.GameOverSubstate', 'characterName', 'bf-pixel-dead')
+	setPropertyFromClass('substates.GameOverSubstate', 'deathSoundName', 'fnf_loss_sfx-pixel')
+	setPropertyFromClass('substates.GameOverSubstate', 'loopSoundName', 'gameOver-pixel')
+	setPropertyFromClass('substates.GameOverSubstate', 'endSoundName', 'gameOverEnd-pixel')
+
+    -- Pause Music turns into its 'Pixel' variant, if there's one.
+    pauseMusic = getPropertyFromClass('backend.ClientPrefs', 'data.pauseMusic')
+	fileName = pauseMusic:gsub(' ', '-'):lower()
+    if checkFileExists('music/'..fileName..'-pixel.ogg') then
+        setPropertyFromClass('backend.ClientPrefs', 'data.pauseMusic', pauseMusic..' Pixel')
+    end
+end
+
+function onDestroy()
+    -- Resets the Pause Music to its original version, else it'll apply everywhere.
+	setPropertyFromClass('backend.ClientPrefs', 'data.pauseMusic', pauseMusic)
 end
 
 --[[

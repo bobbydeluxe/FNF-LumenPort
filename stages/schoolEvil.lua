@@ -1,3 +1,19 @@
+local pauseMusic = ''
+function onCreate()
+	-- Default Game Over.
+	setPropertyFromClass('substates.GameOverSubstate', 'characterName', 'bf-pixel-dead')
+	setPropertyFromClass('substates.GameOverSubstate', 'deathSoundName', 'fnf_loss_sfx-pixel')
+	setPropertyFromClass('substates.GameOverSubstate', 'loopSoundName', 'gameOver-pixel')
+	setPropertyFromClass('substates.GameOverSubstate', 'endSoundName', 'gameOverEnd-pixel')
+
+	-- Pause Music turns into its 'Pixel' variant, if there's one.
+	pauseMusic = getPropertyFromClass('backend.ClientPrefs', 'data.pauseMusic')
+	fileName = pauseMusic:gsub(' ', '-'):lower()
+    if checkFileExists('music/'..fileName..'-pixel.ogg') then
+        setPropertyFromClass('backend.ClientPrefs', 'data.pauseMusic', pauseMusic..' Pixel')
+    end
+end
+
 function onCreatePost()
     runHaxeCode([[
 		import flixel.addons.effects.FlxTrail;
@@ -24,6 +40,11 @@ function onCreatePost()
 		    setShaderInt(object, 'effectType', 0)
 		end
     end
+end
+
+function onDestroy()
+	-- Resets the Pause Music to its original version, else it'll apply everywhere.
+	setPropertyFromClass('backend.ClientPrefs', 'data.pauseMusic', pauseMusic)
 end
 
 -- Sets up the sprites for the 'Trigger BG Ghouls' event if it's present in the chart.
